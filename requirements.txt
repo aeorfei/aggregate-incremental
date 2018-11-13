@@ -1,2 +1,7 @@
 nose
 sphinx
+pandas
+numpy
+boto3
+tqdm
+upside_core
